@@ -9,6 +9,6 @@
         android:layout_height="wrap_content"
         android:background="@color/teal_700"
         app:layout_collapseMode="pin"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+        app:popupTheme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar" /> <!--Previously ThemeOverlay.AppCompat.Dark.ActionBar -->
 
 </LinearLayout>
